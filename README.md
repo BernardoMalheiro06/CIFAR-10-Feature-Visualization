@@ -40,7 +40,6 @@ My goal is using different techniques to visualize the features learned by the C
 3. **Optimization in a Decorrelated Latent Space**: This approach aims to optimize images in a latent space that has been decorrelated to better visualize the features learned by the CNN.
 
 ## Roadmap
-which files to check
 1. `Classifier.ipynb`: A notebook that contains the training and evaluation of the CNN classifier trained on the CIFAR-10 dataset.
 2. `VAE.ipynb`: A notebook that implements the variational autoencoder (VAE) used for latent space optimization.
 3. `Visualization.ipynb`: A notebook that implements the various feature visualization techniques mentioned above.
