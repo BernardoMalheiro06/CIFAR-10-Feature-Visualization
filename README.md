@@ -8,6 +8,8 @@
 - [Results](#results)
 - [Conclusion](#conclusion)
 
+Pre-release now public — feedback welcome!
+
 ## About the Project
 This project focuses on visualizing the features learned by convolutional neural networks (CNNs) trained on the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The goal of this project is to understand how CNNs interpret and represent different features of the images through various visualization techniques.
 
